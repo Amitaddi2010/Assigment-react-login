@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Assignment-react-login/static/css/main.690898a8.css",
+    "main.js": "/Assignment-react-login/static/js/main.fa91c72d.js",
+    "static/js/787.dc0ac8e6.chunk.js": "/Assignment-react-login/static/js/787.dc0ac8e6.chunk.js",
+    "static/media/pinksky.jpg": "/Assignment-react-login/static/media/pinksky.d66ecb1efa9baee7234b.jpg",
+    "static/media/apple.webp": "/Assignment-react-login/static/media/apple.a43feebd2fe592129e03.webp",
+    "index.html": "/Assignment-react-login/index.html",
+    "main.690898a8.css.map": "/Assignment-react-login/static/css/main.690898a8.css.map",
+    "main.fa91c72d.js.map": "/Assignment-react-login/static/js/main.fa91c72d.js.map",
+    "787.dc0ac8e6.chunk.js.map": "/Assignment-react-login/static/js/787.dc0ac8e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.690898a8.css",
+    "static/js/main.fa91c72d.js"
+  ]
+}
