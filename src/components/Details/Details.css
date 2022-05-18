@@ -20,8 +20,70 @@
     background-color: bisque;
     text-align: center;
     margin: 10px;
+   
+
 }
 .details-form-fields{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 0.4fr 0.4fr;
+    gap: 20px;
+    
 }
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+  
+  .btn {
+    border: 2px solid gray;
+    color: gray;
+    background-color: white;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 11px;
+    font-weight: bold;
+   
+  }
+  .btn2 {
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    padding: 20px 40px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+   
+   
+  }
+  hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #fff;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+  
+  .upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
+  .upload-btn-wrapper input[type=submit] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
